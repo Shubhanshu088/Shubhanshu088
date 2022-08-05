@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shubhanshu088
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to for a opportunity to sharps my skills
+- 💞️ I’m looking for a opportunity to sharps my skills
 - 📫 you can contact me :- shubhanshusaini2306@gmail.com
 
 <!---
